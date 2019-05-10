@@ -1,0 +1,15 @@
+[[./images/manglin-mike-mini.png]]
+
+* What is Manglin' Mike?
+  Manglin' Mike is a realtime webpage "mangler", the first of its kind
+  as far as I know.
+
+  Simply link in manglin-mike.js into your HTML source, and Manglin' Mike allows you
+  to screw up all of the text content on the page through a set of easy to use functions.
+* A story through pictures
+  Here's the webpage included in this repository before Manglin' Mike does the magic:
+  [[./images/unmangled.png]] 
+  
+  Now here's the same webpage after calling ~mangleDocumentContinuously()~:
+  [[./images/mangled.gif]]
+

@@ -1,0 +1,32 @@
+body {
+    background-image: url("images/wave.jpg");
+    background-repeat: round;
+}
+
+
+has-bg-img {
+    background-image: url("images/wave.jpg");
+    background-size: cover;
+}
+
+.kathypad {
+    padding-top: 20px;
+    padding-bottom: 20px;
+}
+
+.parapad {
+    padding: 20px;
+}
+
+.center {
+    text-align: center;
+}
+
+.width80 {
+    width: 80%;
+}
+
+.is-emphasized {
+    font-weight: bold;
+    font-style: italic;
+}
